@@ -7,6 +7,7 @@
 
 
 ---
+
 ## Table of Contents
 - [main()](#main)
 - [variables](variables)
@@ -64,6 +65,8 @@ Para makastore tayo ng data sa computer, gagamit tayo ng variables.
 
 
 
+---
+
 ## <a id="print">printing "Hello World"</a>
 Para makaprint, gagamit tayo ng `cout` with the operator `<<`.
 
@@ -82,6 +85,8 @@ Paano ba gumagana yung `cout`? [Boring explanation]().
 Ano yung `iostream`?
 
 
+
+---
 
 ## <a id="include">include</a>
 Para maka-connect ng separate na files sa C++, gagamit tayo ng include.
@@ -128,6 +133,10 @@ cout<<text;
 
 So basically, `iostream` is also just a C++ program to connect with your program so that you can print out stuffs in the console.
 
+
+
+---
+
 ## <a id="math">math operators</a>
 Para maka-compute tayo, gagamit tayo ng:
 
@@ -155,7 +164,7 @@ cout << x%y; //10 ÷ 2 = 0 remainder
 
 
 
-
+---
 
 ## <a id="inc">increment and decrement</a>
 The `++` operator basically just means `add 1`.
