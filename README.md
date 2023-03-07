@@ -8,17 +8,18 @@
 
 ---
 ## Table of Contents
-- main()
-- variables
-- printing "Hello World"
-- include
-- math operators
-- increment and decrement
+- [main()](#main)
+- [variables](variables)
+- [printing "Hello World"](#print)
+- [include](#include)
+- [math operators](#math)
+- [increment and decrement](#inc)
 
 
 
+---
 
-### main()
+## <a id="main">main()</a>
 Lahat ng C++ programs merong main function.
 
 ```cpp
@@ -47,8 +48,9 @@ cout<<"Hi";
 
 
 
+---
 
-### variables
+## <a id="variables">variables</a>
 Para makastore tayo ng data sa computer, gagamit tayo ng variables.
 
 `int` - for integers (negative to positive whole numbers only).
@@ -62,7 +64,7 @@ Para makastore tayo ng data sa computer, gagamit tayo ng variables.
 
 
 
-### printing "Hello World"
+## <a id="print">printing "Hello World"</a>
 Para makaprint, gagamit tayo ng `cout` with the operator `<<`.
 
 ```cpp
@@ -81,7 +83,7 @@ Ano yung `iostream`?
 
 
 
-### include
+## <a id="include">include</a>
 Para maka-connect ng separate na files sa C++, gagamit tayo ng include.
 
 Kunwari merong kang program:
@@ -126,7 +128,7 @@ cout<<text;
 
 So basically, `iostream` is also just a C++ program to connect with your program so that you can print out stuffs in the console.
 
-### math operators
+## <a id="math">math operators</a>
 Para maka-compute tayo, gagamit tayo ng:
 
 `+` addition
@@ -155,7 +157,7 @@ cout << x%y; //10 ÷ 2 = 0 remainder
 
 
 
-### increment and decrement
+## <a id="inc">increment and decrement</a>
 The `++` operator basically just means `add 1`.
 
 ```cpp
@@ -178,3 +180,10 @@ Yung pinagkaiba ng `++x` at `x++` is that:
 
 You can watch this short clip that helped me understand this.
 [https://youtu.be/lJF0HBB_QvM](https://youtu.be/lJF0HBB_QvM).
+
+
+---
+
+
+
+## [Selection]()
