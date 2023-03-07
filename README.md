@@ -68,7 +68,7 @@ Para makastore tayo ng data sa computer, gagamit tayo ng variables.
 ---
 
 ## <a id="print">printing "Hello World"</a>
-Para makaprint, gagamit tayo ng `cout` with the operator `<<`. If you tried running the program previously, you will notice that it will retutn an error that says 'undefined identifier cout', which basically means walang idea yung compiler kung ano yung `cout`.
+Para makaprint, gagamit tayo ng `cout` with the operator `<<`. If you tried running the program previously, you will notice that it will return an error that says 'undefined identifier cout', which basically means walang idea yung compiler kung ano yung `cout`.
 
 ```cpp
 #include <iostream> //or <iostream.h> in turbo c++
