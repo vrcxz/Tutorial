@@ -131,11 +131,11 @@ So basically, `iostream` is also just a C++ program to connect with your program
 ## <a id="math">math operators</a>
 Para maka-compute tayo, gagamit tayo ng:
 
-`+` addition
-`-` subtraction
-`*` multiplication
-`/` division
-`%` remainder (modulo)
+- `+` addition
+- `-` subtraction
+- `*` multiplication
+- `/` division
+- `%` remainder (modulo)
 
 ```cpp
 #include <iostream>
