@@ -42,7 +42,7 @@ void main(){
 void main(){
 cout<<"Hi";
 }
-//Gumagana na
+//Correct
 ```
 
 `Note: add 'using namespace std;' at the top if you are using a modern C++ compiler. The long and boring explanation can be found at `[namespaces]()`. For now, just add it.`
@@ -68,7 +68,7 @@ Para makastore tayo ng data sa computer, gagamit tayo ng variables.
 ---
 
 ## <a id="print">printing "Hello World"</a>
-Para makaprint, gagamit tayo ng `cout` with the operator `<<`.
+Para makaprint, gagamit tayo ng `cout` with the operator `<<`. If you tried running the program previously, you will notice that it will retutn an error that says 'undefined identifier cout', which basically means walang idea yung compiler kung ano yung `cout`.
 
 ```cpp
 #include <iostream> //or <iostream.h> in turbo c++
@@ -80,9 +80,11 @@ cout<<"Hello World";
 
 ```
 
+You just need to include `iostream` for it to work.
+
 Paano ba gumagana yung `cout`? [Boring explanation]().
 
-Ano yung `iostream`?
+Ano yung `#include <iostream>`?
 
 
 
