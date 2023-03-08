@@ -195,7 +195,7 @@ You can watch this short clip that helped me understand this.
 
 
 
-Yung `--` operator namn is just `minus 1`.
+Yung `--` operator naman is just `minus 1`.
 
 ```cpp
 int x=10;
