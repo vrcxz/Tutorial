@@ -10,7 +10,7 @@
 
 ## Table of Contents
 - [main()](#main)
-- [variables](variables)
+- [variables](#variables)
 - [printing "Hello World"](#print)
 - [include](#include)
 - [math operators](#math)
