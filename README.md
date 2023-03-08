@@ -64,7 +64,7 @@ Para makastore tayo ng data sa computer, gagamit tayo ng variables.
 
 
 
-`Note: There are many more types of variables but this is the four that everyone use in common.
+`Note: There are many more types of variables but this is the four that everyone use in common.`
 
 ---
 
