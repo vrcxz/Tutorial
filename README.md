@@ -193,6 +193,20 @@ You can watch this short clip that helped me understand this.
 [https://youtu.be/lJF0HBB_QvM](https://youtu.be/lJF0HBB_QvM).
 
 
+
+
+Yung `--` operator namn is just `minus 1`.
+
+```cpp
+int x=10;
+cout << --x; //9
+```
+
+```cpp
+int x=10;
+cout << x--; //10  same lang sila
+```
+
 ---
 
 
